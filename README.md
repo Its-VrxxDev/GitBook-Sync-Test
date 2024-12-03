@@ -8,4 +8,4 @@ description: '`zlapi` zalo api for python.'
 
 ## ZLAPI
 
-abcxyz
+`zlapi` abcxyz
