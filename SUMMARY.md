@@ -1,2 +1,2 @@
-## 🚀 KHỞI ĐẦU
+## 🚀 **bắt đầu**
 * [Giới thiệu](README.md)
