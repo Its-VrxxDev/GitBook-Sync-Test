@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-
 ## ✨ Bắt Đầu
 
-* [Page 1](bat-dau/page-1.md)
+* [Page 1](README.md)
 
 ## ☀️ API
 
