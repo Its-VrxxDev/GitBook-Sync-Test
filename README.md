@@ -1,4 +1,2 @@
-``zlapi`` là Zalo API (không chính thức) dành cho Python.
+# Page
 
-## ZLAPI
-abcxyz
