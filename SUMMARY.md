@@ -14,6 +14,7 @@
 * [people gear](bat-dau/people-gear.md)
 * [cookies](bat-dau/cookies.md)
 * [dropdown](bat-dau/dropdown.md)
+* [Page](bt-m6s-u-kia638t/page.md)
 
 ## ☀️ API
 
