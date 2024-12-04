@@ -12,7 +12,8 @@
 * [python](bat-dau/python.md)
 * [Like](bat-dau/like.md)
 * [people gear](bat-dau/people-gear.md)
-* [Page](bat-dau/page.md)
+* [cookies](bat-dau/cookies.md)
+* [dropdown](bat-dau/dropdown.md)
 
 ## ☀️ API
 

@@ -1,4 +1,8 @@
-# Page
+---
+icon: cookie
+---
+
+# cookies
 
 <details>
 
